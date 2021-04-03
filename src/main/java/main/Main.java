@@ -84,57 +84,53 @@ public class Main {
             zaIsplatuOd1++;
             iznos -= 1;
         }
-         
+          
         if (zaIsplatuOd5000 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd5000 + " broj novcanica");
-        } 
-        
+            System.out.println("Isplatiti " + zaIsplatuOd5000 + " broj novcanica od 5000");
+        }
+         
         if (zaIsplatuOd2000 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd2000 + " broj novcanica");
+            System.out.println("Isplatiti " + zaIsplatuOd2000 + " broj novcanica od 2000");
         }
          
         if (zaIsplatuOd1000 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd1000 + " broj novcanica");
-        }
-         
-        if (zaIsplatuOd500 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd500 + " broj novcanica");
+            System.out.println("Isplatiti " + zaIsplatuOd1000 + " broj novcanica od 1000");
         }
         
-        if (zaIsplatuOd2000 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd500 + " broj novcanica");
+        if (zaIsplatuOd500 > 0) {
+            System.out.println("Isplatiti " + zaIsplatuOd500 + " broj novcanica od 500");
         }
         
         if (zaIsplatuOd200 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd200 + " broj novcanica");
+            System.out.println("Isplatiti " + zaIsplatuOd200 + " broj novcanica od 200");
         }
         
         if (zaIsplatuOd100 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd100 + " broj novcanica");
+            System.out.println("Isplatiti " + zaIsplatuOd100 + " broj novcanica od 100");
         }
         
         if (zaIsplatuOd50 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd50 + " broj novcanica");
+            System.out.println("Isplatiti " + zaIsplatuOd50 + " broj novcanica 50");
         }
         
         if (zaIsplatuOd20 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd20 + " broj novcanica");
+            System.out.println("Isplatiti " + zaIsplatuOd20 + " broj novcanica od 20");
         }
         
         if (zaIsplatuOd10 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd10 + " broj novcanica");
+            System.out.println("Isplatiti " + zaIsplatuOd10 + " broj novcanica od 10");
         }
         
         if (zaIsplatuOd5 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd5 + " broj kovanica");
+            System.out.println("Isplatiti " + zaIsplatuOd5 + " broj kovanica od 5");
         }
         
         if (zaIsplatuOd2 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd2 + " broj kovanica");
+            System.out.println("Isplatiti " + zaIsplatuOd2 + " broj kovanica od 2");
         }
         
         if (zaIsplatuOd1 > 0) {
-            System.out.println("Isplatiti " + zaIsplatuOd1 + " broj kovanica");
+            System.out.println("Isplatiti " + zaIsplatuOd1 + " broj kovanica od 1");
         }
          
     }
